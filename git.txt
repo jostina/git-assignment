@@ -1,0 +1,29 @@
+Microsoft Windows [Version 10.0.19045.4046]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\jndavi>git init
+'git' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\jndavi>Hello, Git!
+'Hello' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\jndavi>git add hello.txt
+'git' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\jndavi>git commit -m "Add hello.txt with a greeting"
+'git' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\jndavi>git remote add origin <repository-url>
+The syntax of the command is incorrect.
+
+C:\Users\jndavi>git push -u origin main
+'git' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\jndavi>git remote add origin https://github.com/jostina/git-assignment.git
+'git' is not recognized as an internal or external command,
+operable program or batch file.
